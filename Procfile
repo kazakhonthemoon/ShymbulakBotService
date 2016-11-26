@@ -1,1 +1,0 @@
-web: java -jar /app/tmp/cache/.m2/repository/kz/eugales/Shymbulak/0.0.1-SNAPSHOT/Shymbulak-0.0.1-SNAPSHOT.jar
